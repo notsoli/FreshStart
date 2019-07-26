@@ -1,0 +1,4 @@
+author = Solitaire
+version = 1.0.2
+displayName = Fresh Start
+homepage = https://forums.terraria.org/index.php?threads/fresh-start-respawn-with-full-health-and-mana.81499/
